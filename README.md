@@ -16,7 +16,9 @@ Più in generale si sviluppi il tema del Risparmio energetico e del Consumo resp
 
 What we have done is illustred in the following video firstly:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/s64Pj28EPd0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/s64Pj28EPd0)
+[link text](https://youtu.be/s64Pj28EPd0)
+
+
 
 
 
