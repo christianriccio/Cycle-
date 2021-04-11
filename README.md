@@ -14,8 +14,9 @@ Si faccia particolare riferimento al concetto di Economia circolare, ovvero la t
 Più in generale si sviluppi il tema del Risparmio energetico e del Consumo responsabile dell’energia, per incentivare la produzione di energia green e ridurre i consumi e gli sprechi. Si pensi ad esempio a soluzioni che permettano di avere immediata consapevolezza dei consumi energetici senza la necessità di un misuratore specifico.
 '''
 
-What we have done is illustred in the following video firstly:
-[![Watch the video]](https://youtu.be/s64Pj28EPd0)
+What we have done is illustred in the following video pitch firstly:
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/s64Pj28EPd0)
+
 
 
 
