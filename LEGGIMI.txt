@@ -1,0 +1,14 @@
+PER POTER PERMETTERE ALL'AI DI FUNZIONARE C'E' BISOGNO DEI SEGUENTI REQUISITI:
+----Python 3
+----Installare i seguenti moduli di python se richiesto dal prompt dei comandi: 
+				- pip install Pillow
+				- pip install opencv-python
+				- pip install imutils
+				- pip install numpy
+				- pip install Flask
+----Avviare su cmd per avviare il server: 
+		                - python webservice.py
+
+
+
+!!!!! Ovviamente tutto va fatto dalla directory corrispondente a quella di webservice.py !!!!!
