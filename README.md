@@ -5,7 +5,7 @@ Team Composed by:
 - Daniele Romano: Java & Web Develope
 - Christian Riccio: Data Scientist 
 - Sarah Riccio: UX/UI Designer
-- Elio Fortunato:
+- Elio Fortunato:New Media Artist
 - Alessandro Di Benedetto: Penetration Tester 
 
 The call to the challenge: 
