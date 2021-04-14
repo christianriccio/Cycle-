@@ -43,7 +43,7 @@ Obviously this is only the first version of RESAICOL, in our opinion this should
 
 In the following repository you will be able to find a web prototype that works on a local server menaged under flask, in enable us to integrate our python code into html and start a live stream from the browser and the webcam of the pc. The live stream is the passed into the YOLO deep learning algorithms that perform a live object detection.
 
-Whit the material you will find a readme file and also a .pdf file with instructions describing how to run the project. There are also shown concepts of the mobile application and other lots of stuff hahaa :) enjoy !!!
+Whit the material you will find a readme file and also a .pdf file with instructions describing how to run the project. There is also shown a prototuype of the mobile application and other lots of stuff hahaa :) enjoy !!!
 
 
 
